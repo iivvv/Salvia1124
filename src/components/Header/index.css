@@ -1,0 +1,22 @@
+.wrapper {
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+  /* background-color: antiquewhite; */
+}
+
+.title {
+  font-size: 24px;
+}
+
+.right-area {
+  width: 500px;
+  /* background-color: #66ccff; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.desc {
+  color: #888;
+}
